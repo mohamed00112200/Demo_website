@@ -1,10 +1,6 @@
 # 🎨 Bootstrap Demo Website
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1522542550221-31fd19575a2d?auto=format&fit=crop&w=1400&q=80" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-5-purple?style=for-the-badge&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/Frontend-Project-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge"/>
